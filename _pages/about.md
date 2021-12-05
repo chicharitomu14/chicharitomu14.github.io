@@ -19,21 +19,17 @@ I am a second year PhD student at Shandong University.
 
 Publications
 ------
-1. [ICSE’22] Qinsheng Hou, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. The 44th IEEE/ACM International Conference on Software Engineering, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [CCF A]
-
-
+1. **[ICSE’22]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. *The 44th IEEE/ACM International Conference on Software Engineering*, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [CCF A]
+1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*, Pittsburgh, Virtual. August 11-13, 2021. [Top] [CCF A]
+1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [CCF C]
 
 Invited Talks
 ------
 xxxx
 
-
-
 Awards
 ------
 xxxx
-
-
 
 Vulnerabilities and acknowledgment
 ------
@@ -42,7 +38,11 @@ test
 External Reviewer
 ------
 ESORICS 2020
+
+
+
 <!--
+
 Getting started
 ------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
