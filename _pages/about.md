@@ -20,24 +20,34 @@ I am a second year PhD student at Shandong University.
 Publications
 ------
 1. **[ICSE’22]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. *The 44th IEEE/ACM International Conference on Software Engineering*, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [CCF A]
-1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*, Pittsburgh, Virtual. August 11-13, 2021. [Top] [CCF A]
+1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, and Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*,  Virtual. August 11-13, 2021. [Top] [CCF A]
 1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [CCF C]
 
 Invited Talks
 ------
-xxxx
+- **Android固件生态的大规模安全测量**
+  - Aug 2021: [3rd International Workshop on Cyber Security and Data Privacy](https://mp.weixin.qq.com/s/DzGv_eOpLHVaVy1u4jZ1vw)
+  - Aug 2021: [2021 北京网络安全大会](https://bcs.qianxin.com/speakers/show.php?itemid=225)
+- **基于Native Code的Android系统Dos攻击分析**
+  - May 2021: Nankai University, Tianjin, China
+  - Apr 2021: Southeast University, Nanjing, China
+  - Dec 2020: [Shandong University, Qingdao, China](https://cst.qd.sdu.edu.cn/info/1038/1077.htm)
 
 Awards
 ------
-xxxx
+- [**天府杯 2021 国际网络安全大赛**](http://www.tianfucup.com/#canjia)
+  - 原创漏洞复现赛：摄像头 & 汽车项目
+- **[GeekPwn 2020 新基建安全大赛](https://hof.geekpwn.org/zh/index.html)**
+  - 优胜奖：植保无人机项目
 
 Vulnerabilities and acknowledgment
 ------
-test
+- CVE: [CVE-2021-22486](https://consumer.huawei.com/en/support/bulletin/2021/7/), [CVE-2021-26281](https://www.vivo.com/en/support/security-advisory-detail?id=9), [CVE-2021-26279](https://www.vivo.com/en/support/security-advisory-detail?id=10), [CVE-2021-21742](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [CVE-2021-3720](https://iknow.lenovo.com.cn/detail/dc_199217.html)
+- CNVD: CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
 
 External Reviewer
 ------
-ESORICS 2020
+- ESORICS 2020
 
 
 
