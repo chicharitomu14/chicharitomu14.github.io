@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD student, Shandong University
-
-Security Researcher, QI-ANXIN Technology Research Institute
-
 About me
 ------
-I am a second year PhD student at Shandong University.
+I am a Ph.D. student at Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html). Currently, I also work with Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/) and Dr. [Lingyun Ying](http://people.ucas.ac.cn/~yly) at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/). Also, I ever worked / interned at JD.com, and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in Mobile Security, Software Supply Chain Security, and IoT Security.
 
 
 Publications
@@ -32,21 +28,28 @@ Invited Talks
   - May 2021: Nankai University, Tianjin, China
   - Apr 2021: Southeast University, Nanjing, China
   - Dec 2020: [Shandong University, Qingdao, China](https://cst.qd.sdu.edu.cn/info/1038/1077.htm)
+- **NativeX: Native Executioner Freezes Android**
+  - Apr 2020: Tsinghua University, Beijing, China
 
 Awards
 ------
 - [**天府杯 2021 国际网络安全大赛**](http://www.tianfucup.com/#canjia)
-  - 原创漏洞复现赛：摄像头 & 汽车项目
+  - 原创漏洞复现赛：摄像头 & 汽车破解项目
 - **[GeekPwn 2020 新基建安全大赛](https://hof.geekpwn.org/zh/index.html)**
-  - 优胜奖：植保无人机项目
+  - 优胜奖：植保无人机劫持项目
 
 Vulnerabilities and acknowledgment
 ------
 - CVE: [CVE-2021-22486](https://consumer.huawei.com/en/support/bulletin/2021/7/), [CVE-2021-26281](https://www.vivo.com/en/support/security-advisory-detail?id=9), [CVE-2021-26279](https://www.vivo.com/en/support/security-advisory-detail?id=10), [CVE-2021-21742](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [CVE-2021-3720](https://iknow.lenovo.com.cn/detail/dc_199217.html)
 - CNVD: CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
 
+## Patents
+
+- 一种阻止基于原生代码攻击操作系统的方法及装置，发明专利，2021，第1作者，专利号：ZL201910489983.2
+
 External Reviewer
 ------
+
 - ESORICS 2020
 
 
