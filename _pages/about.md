@@ -40,8 +40,8 @@ Awards
 
 Vulnerabilities and acknowledgment
 ------
-- CVE: [CVE-2021-22486](https://consumer.huawei.com/en/support/bulletin/2021/7/), [CVE-2021-26281](https://www.vivo.com/en/support/security-advisory-detail?id=9), [CVE-2021-26279](https://www.vivo.com/en/support/security-advisory-detail?id=10), [CVE-2021-21742](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [CVE-2021-3720](https://iknow.lenovo.com.cn/detail/dc_199217.html)
-- CNVD: CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
+- CVE (5) : [CVE-2021-22486](https://consumer.huawei.com/en/support/bulletin/2021/7/), [CVE-2021-26281](https://www.vivo.com/en/support/security-advisory-detail?id=9), [CVE-2021-26279](https://www.vivo.com/en/support/security-advisory-detail?id=10), [CVE-2021-21742](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [CVE-2021-3720](https://iknow.lenovo.com.cn/detail/dc_199217.html)
+- CNVD (30) : CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925, CNVD-2020-33098, CNVD-2020-38456,  CNVD-2020-28792
 
 ## Patents
 

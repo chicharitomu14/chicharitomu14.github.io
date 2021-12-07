@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qinsheng Hou"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Qinsheng Hou (侯勤胜)"
 description              : &description "personal description"
