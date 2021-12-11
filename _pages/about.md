@@ -36,7 +36,7 @@ Awards
 - [**天府杯 2021 国际网络安全大赛**](http://www.tianfucup.com/#canjia)
   - 原创漏洞复现赛：摄像头 & 汽车破解项目
 - **[GeekPwn 2020 新基建安全大赛](https://hof.geekpwn.org/zh/index.html)**
-  - 优胜奖：植保无人机劫持项目
+  - 优胜奖：植保无人机劫持项目（单项最高奖金）
 
 Vulnerabilities and Acknowledgments
 ------
