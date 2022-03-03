@@ -15,7 +15,7 @@ I am a Ph.D. student at Shandong University, advised by Prof. [Shanqing Guo](htt
 
 Publications
 ------
-1. **[EuroS&P'22]** Huikai Xu, Miao Yu, Yanhao Wang, Yue Liu, **Qinsheng Hou**, Zhenbang Ma, Haixin Duan, Jianwei Zhuge, and Baojun Liu. Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers. *The 7th IEEE European Symposium on Security and Privacy*, Genoa, Italy. June 6-10, 2022. [To appear]
+1. **[Euro S&P'22]** Huikai Xu, Miao Yu, Yanhao Wang, Yue Liu, **Qinsheng Hou**, Zhenbang Ma, Haixin Duan, Jianwei Zhuge, and Baojun Liu. Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers. *The 7th IEEE European Symposium on Security and Privacy*, Genoa, Italy. June 6-10, 2022.
 1. **[ICSE’22]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. *The 44th IEEE/ACM International Conference on Software Engineering*, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [CCF A]
 1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, and Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*,  Virtual. August 11-13, 2021. [Top] [CCF A] [[PDF](https://www.usenix.org/system/files/sec21-chen-libo.pdf)]
 1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)]
@@ -35,9 +35,9 @@ Invited Talks
 Awards
 ------
 - [**天府杯 2021 国际网络安全大赛**](http://www.tianfucup.com/#canjia)
-  - 原创漏洞复现赛：摄像头 & 汽车破解项目
-- **[GeekPwn 2020 新基建安全大赛](https://hof.geekpwn.org/zh/index.html)**
-  - 优胜奖：植保无人机劫持项目（最高单项奖金）
+  - 原创漏洞复现赛: 摄像头 & 汽车破解项目
+- [**GeekPwn 2020 新基建安全大赛**](https://hof.geekpwn.org/zh/index.html)
+  - 优胜奖: 植保无人机劫持项目 (最高单项奖金)
 
 Vulnerabilities and Acknowledgments
 ------
@@ -46,7 +46,7 @@ Vulnerabilities and Acknowledgments
 
 ## Patents
 
-- 一种阻止基于原生代码攻击操作系统的方法及装置，发明专利，2021，第1作者，专利号：ZL201910489983.2
+- 侯勤胜, 应凌云, 聂眉宁.一种阻止基于原生代码攻击操作系统的方法及装置, 发明专利, 2021, 专利号: ZL201910489983.2
 
 External Reviewer
 ------
