@@ -30,7 +30,7 @@ Invited Talks
   - Apr 2021: Southeast University, Nanjing, China
   - Dec 2020: [Shandong University, Qingdao, China](https://cst.qd.sdu.edu.cn/info/1038/1077.htm)
 - **NativeX: Native Executioner Freezes Android**
-  - Apr 2020: Tsinghua University, Beijing, China
+  - Apr 2020: [Tsinghua University, Beijing, China](http://netsec.ccert.edu.cn/chs/seminars/2020-04-16-NativeX)
 
 Awards
 ------
