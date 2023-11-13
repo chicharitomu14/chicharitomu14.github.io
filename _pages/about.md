@@ -12,15 +12,26 @@ About me
 ------
 I am a Ph.D. candidate at Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). Currently, I also work with Dr. [Lingyun Ying](http://people.ucas.ac.cn/~yly) at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/). I ever worked/interned at JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in Mobile Security, Software Supply Chain Security, and IoT Security.
 
-
 Publications
 ------
+
+### 2023
+
 1. **[APSEC’23]** Shishuai Yang, **Qinsheng Hou** (✉️), Shuang Li, and Wenrui Diao (✉️). Do App Developers Follow the Android Official Security Guidelines? *The 30th Asia-Pacific Software Engineering Conference*, Seoul, Korea. December 4-7, 2023. [CCF C]
 1. **[IEEE TDSC]** Libo Chen, Yanhao Wang, Jiaqi Linghu, **Qinsheng Hou**, Quanpu Cai, Shanqing Guo, and Zhi Xue. SaTC: Shared-Keyword Aware Taint Checking for Detecting Bugs in Embedded Systems. *IEEE Transactions on Dependable and Secure Computing*, Early Access, 2023. [CCF A] [[Link](https://ieeexplore.ieee.org/abstract/document/10226330)]
 1. **[IEEE TSE]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. *IEEE Transactions on Software Engineering*, 49(7): 3901-3921, 2023. [CCF A] [[Link](https://ieeexplore.ieee.org/document/10141678)]
+
+### 2022
+
 1. **[Euro S&P'22]** Huikai Xu, Miao Yu, Yanhao Wang, Yue Liu, **Qinsheng Hou**, Zhenbang Ma, Haixin Duan, Jianwei Zhuge, and Baojun Liu. Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers. *The 7th IEEE European Symposium on Security and Privacy*, Genoa, Italy. June 6-10, 2022. [CCF C] [[PDF](https://github.com/ReAbout/Trampoline-Over-the-Air/blob/main/Trampoline%20Over%20the%20Air%20-%20Breaking%20in%20IoT%20Devices%20Through%20MQTT%20Brokers_validated.pdf)]
 1. **[ICSE’22]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. *The 44th IEEE/ACM International Conference on Software Engineering*, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [CCF A] [[PDF]](https://chicharitomu14.github.io/files/2022-ICSE.pdf)
+
+### 2021
+
 1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, and Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*,  Virtual. August 11-13, 2021. [Top] [CCF A] [[PDF](https://www.usenix.org/system/files/sec21-chen-libo.pdf)]
+
+### 2020
+
 1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)]
 
 Talks
