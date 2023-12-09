@@ -17,7 +17,7 @@ Publications
 
 ### 2023
 
-1. **[APSEC’23]** Shishuai Yang, **Qinsheng Hou** (✉️), Shuang Li, and Wenrui Diao (✉️). Do App Developers Follow the Android Official Security Guidelines? *The 30th Asia-Pacific Software Engineering Conference*, Seoul, Korea. December 4-7, 2023. [CCF C]
+1. **[APSEC’23]** Shishuai Yang, **Qinsheng Hou** (✉️), Shuang Li, and Wenrui Diao (✉️). Do App Developers Follow the Android Official Security Guidelines? *The 30th Asia-Pacific Software Engineering Conference*, Seoul, Korea. December 4-7, 2023. [CCF C] [[Link](https://conf.researchr.org/details/apsec-2023/apsec-2023-technical-track/42/Do-App-Developers-Follow-the-Android-Official-Data-Security-Guidelines-An-Empirical-)]
 1. **[IEEE TDSC]** Libo Chen, Yanhao Wang, Jiaqi Linghu, **Qinsheng Hou**, Quanpu Cai, Shanqing Guo, and Zhi Xue. SaTC: Shared-Keyword Aware Taint Checking for Detecting Bugs in Embedded Systems. *IEEE Transactions on Dependable and Secure Computing*, Early Access, 2023. [CCF A] [[Link](https://ieeexplore.ieee.org/abstract/document/10226330)]
 1. **[IEEE TSE]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. *IEEE Transactions on Software Engineering*, 49(7): 3901-3921, 2023. [CCF A] [[Link](https://ieeexplore.ieee.org/document/10141678)]
 
@@ -37,7 +37,7 @@ Publications
 Talks
 ------
 - **软件供应链生态安全实践**
-  - Apr 2023: [DataCon](https://datacon.qianxin.com/video/video-list)
+  - Apr 2023: [DataCon特训夏令营 – 系统与软件安全专题](https://datacon.qianxin.com/video/video-list)
 - **Android固件生态的大规模安全测量**
   - Aug 2021: [3rd International Workshop on Cyber Security and Data Privacy](https://mp.weixin.qq.com/s/DzGv_eOpLHVaVy1u4jZ1vw)
   - Aug 2021: [2021 北京网络安全大会](https://bcs.qianxin.com/speakers/show.php?itemid=225)
