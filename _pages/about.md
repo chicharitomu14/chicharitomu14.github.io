@@ -15,6 +15,10 @@ I am a Ph.D. candidate at Shandong University, advised by Prof. [Shanqing Guo](h
 Publications
 ------
 
+### 2024
+
+1. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2023. [Top] [CCF A]
+
 ### 2023
 
 1. **[APSEC’23]** Shishuai Yang, **Qinsheng Hou** (✉️), Shuang Li, and Wenrui Diao (✉️). Do App Developers Follow the Android Official Security Guidelines? *The 30th Asia-Pacific Software Engineering Conference*, Seoul, Korea. December 4-7, 2023. [CCF C] [[Link](https://conf.researchr.org/details/apsec-2023/apsec-2023-technical-track/42/Do-App-Developers-Follow-the-Android-Official-Data-Security-Guidelines-An-Empirical-)]
