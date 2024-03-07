@@ -63,8 +63,10 @@ Talks
 
 Vulnerabilities and Acknowledgments
 ------
+- **Acknowledgments** (厂商致谢)
+  - [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659),  [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084)
 - **CVE (5)** 
-  - **2021**: [CVE-2021-22486](https://consumer.huawei.com/en/support/bulletin/2021/7/), [CVE-2021-26281](https://www.vivo.com/en/support/security-advisory-detail?id=9), [CVE-2021-26279](https://www.vivo.com/en/support/security-advisory-detail?id=10), [CVE-2021-21742](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084), [CVE-2021-3720](https://iknow.lenovo.com.cn/detail/dc_199217.html)
+  - **2021**: CVE-2021-22486, CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
 - **CNVD (43)** 
   - **2023**: CNVD-2023-60618, CNVD-2023-59491, CNVD-2023-59021, CNVD-2023-52831, CNVD-2023-52830, CNVD-2023-37621, CNVD-2023-30405, CNVD-2023-27536, CNVD-2023-27535, CNVD-2023-27534
   - **2021**: CNVD-2021-67925, CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925, 
@@ -86,8 +88,8 @@ Vulnerabilities and Acknowledgments
   - ESORICS 2020
 - **Others**
   - 电子科技大学协议副研究员
+  - 网络安全学院学生创新资助计划指导老师 [[SDU](https://www.qdxq.sdu.edu.cn/info/1282/35098.htm)] [[SJTU](https://www.seiee.sjtu.edu.cn/index_news/8224.html)]
   - 东南大学专业学位硕士研究生校外指导教师
-  - 网络安全学院学生创新资助计划指导老师
   - “观安杯”网络安全技能竞赛特聘专家
 
 
