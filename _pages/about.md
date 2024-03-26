@@ -42,7 +42,7 @@ Publications
 
 - **天穹Android沙箱**
   - Android 12 ARM (即将上线), Android 9 x86, Android 7.1 x86, Android 4.1 ARM
-  - [沙箱使用链接](https://sandbox.qianxin.com/sscc-tq-web/)
+  - [沙箱使用链接](https://sandbox.qianxin.com/sscc-tq-web/), [介绍文档](https://research.qianxin.com/archives/1748)
 - [**DataCon 2022 大数据安全分析竞赛**](https://datacon.qianxin.com/datacon2022)
   - 软件安全赛道: Android APP组成成分分析 (出题人)
 - [**天府杯 2021 国际网络安全大赛**](http://www.tianfucup.com/#canjia)
