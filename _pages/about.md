@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a Ph.D. candidate at Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). Currently, I also work with Dr. [Lingyun Ying](http://people.ucas.ac.cn/~yly) at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/). I ever worked/interned at JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in Mobile Security, Software Supply Chain Security, and IoT Security.
+I am a Ph.D. candidate at Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). Currently, I also work with Dr. [Lingyun Ying](http://people.ucas.ac.cn/~yly) at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/). I ever worked/interned at JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in AI for Security, Mobile Security, Software Supply Chain Security, and IoT Security.
 
 Publications
 ------
