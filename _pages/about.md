@@ -17,7 +17,8 @@ Publications
 
 ### 2024
 
-1. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[QAX](https://research.qianxin.com/archives/1740)]
+1. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, **Wenrui Diao**, Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A]
+2. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[QAX](https://research.qianxin.com/archives/1740)]
 
 ### 2023
 
@@ -72,7 +73,8 @@ Vulnerabilities and Acknowledgments
 - **CVE (5)** 
   - **2021**: CVE-2021-22486, CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
 - **CNVD (43)** 
-  - **2023**: CNVD-2023-60618, CNVD-2023-59491, CNVD-2023-59021, CNVD-2023-52831, CNVD-2023-52830, CNVD-2023-37621, CNVD-2023-30405, CNVD-2023-27536, CNVD-2023-27535, CNVD-2023-27534
+  - **2024**: CNVD-2024-05527
+  - **2023**: CNVD-2023-75837, CNVD-2023-75836, CNVD-2023-60618, CNVD-2023-59491, CNVD-2023-59021, CNVD-2023-52831, CNVD-2023-52830, CNVD-2023-37621, CNVD-2023-30405, CNVD-2023-27536, CNVD-2023-27535, CNVD-2023-27534
   - **2021**: CNVD-2021-67925, CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
   - **2020**: CNVD-2020-33098, CNVD-2020-38456,  CNVD-2020-28792
 - **SVE (5)**
