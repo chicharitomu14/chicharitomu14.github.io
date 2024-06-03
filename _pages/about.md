@@ -17,7 +17,7 @@ Publications
 
 ### 2024
 
-1. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, **Wenrui Diao**, Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A]
+1. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, Wenrui Diao, Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A]
 2. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[QAX](https://research.qianxin.com/archives/1740)]
 
 ### 2023
