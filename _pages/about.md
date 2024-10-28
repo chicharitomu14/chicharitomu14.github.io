@@ -17,8 +17,8 @@ Publications
 
 ### 2024
 
-1. **[ASE’24]** Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, **Qinsheng Hou**, and Hai Jin. How Does Code Optimization Impact Third-party Library Detection for Android Applications. *The 39th IEEE/ACM International Conference on Automated Software Engineering*, Sacramento, California, USA. October 27-November 1, 2024. [Top] [CCF A]
-2. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, Wenrui Diao, Yacong Gu, Rui Li, Shanqing Guo, and Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A]
+1. **[ASE’24]** Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, **Qinsheng Hou**, and Hai Jin. How Does Code Optimization Impact Third-party Library Detection for Android Applications. *The 39th IEEE/ACM International Conference on Automated Software Engineering*, Sacramento, California, USA. October 27-November 1, 2024. [Top] [CCF A] [[Code](https://github.com/CGCL-codes/LibHunter)]
+2. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, Wenrui Diao, Yacong Gu, Rui Li, Shanqing Guo, and Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A] [[PDF](https://chicharitomu14.github.io/files/minicat_ccs24.pdf)] [[Code](https://github.com/kee1ongz/MiniCAT)] [[Demo](https://sites.google.com/view/minicprf)] [[QAX](https://research.qianxin.com/archives/2633)]
 3. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[QAX](https://research.qianxin.com/archives/1740)]
 
 ### 2023
@@ -34,7 +34,7 @@ Publications
 
 ### 2021
 
-1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, and Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*,  Virtual. August 11-13, 2021. [Top] [CCF A] [[PDF](https://www.usenix.org/system/files/sec21-chen-libo.pdf)] [[Conference](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-libo)] [[Gossip](https://mp.weixin.qq.com/s/Xy4x2_cZnyvXAzN3G0skyg)] [[SJTU](https://news.sjtu.edu.cn/jdzh/20210225/142057.html)]
+1. **[USENIX Security’21]** Libo Chen, Yanhao Wang, Quanpu Cai, Yunfan Zhan, Hong Hu, Jiaqi Linghu, **Qinsheng Hou**, Chao Zhang, Haixin Duan, and Zhi Xue. Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems. *The 30th USENIX Security Symposium*,  Virtual. August 11-13, 2021. [Top] [CCF A] [[PDF](https://www.usenix.org/system/files/sec21-chen-libo.pdf)] [[Conference](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-libo)] [[Gossip](https://mp.weixin.qq.com/s/Xy4x2_cZnyvXAzN3G0skyg)] [[SJTU](https://news.sjtu.edu.cn/jdzh/20210225/142057.html)] [[Code](https://github.com/NSSL-SJTU/SaTC)]
 
 ### 2020
 
