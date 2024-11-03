@@ -15,11 +15,16 @@ I received my Ph.D. degree from Shandong University, advised by Prof. [Shanqing 
 Publications
 ------
 
+### 2025
+
+1. **[ESE]** Shishuai Yang, **Qinsheng Hou**, Shuang Li, Fenghao Xu, and Wenrui Diao. From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. *Empirical Software Engineering*, 30 (11): 1-33, 2025. [CCF B] [[Link](https://rdcu.be/dYrz6)]
+
 ### 2024
 
-1. **[ASE’24]** Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, **Qinsheng Hou**, and Hai Jin. How Does Code Optimization Impact Third-party Library Detection for Android Applications. *The 39th IEEE/ACM International Conference on Automated Software Engineering*, Sacramento, California, USA. October 27-November 1, 2024. [Top] [CCF A] [[PDF](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)] [[Code](https://github.com/CGCL-codes/LibHunter)] [[ACM SIGSOFT Distinguished Paper Awards](https://conf.researchr.org/info/ase-2024/awards)]
-2. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, Wenrui Diao, Yacong Gu, Rui Li, Shanqing Guo, and Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A] [[PDF](https://chicharitomu14.github.io/files/minicat_ccs24.pdf)] [[Code](https://github.com/kee1ongz/MiniCAT)] [[Demo](https://sites.google.com/view/minicprf)] [[QAX](https://research.qianxin.com/archives/2633)]
-3. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[PDF](https://diaowenrui.github.io/paper/www24-liu.pdf)] [[QAX](https://research.qianxin.com/archives/1740)]
+1. **[TrustCom’24]** Yifan Yu, Ruoyan Lin, Shuang Li, **Qinsheng Hou**, and Wenrui Diao. Security Assessment of Customizations in Android Smartwatch Firmware. *The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications*, Sanya, China. December 17-21, 2024. [CCF C]
+2. **[ASE’24]** Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, **Qinsheng Hou**, and Hai Jin. How Does Code Optimization Impact Third-party Library Detection for Android Applications. *The 39th IEEE/ACM International Conference on Automated Software Engineering*, Sacramento, California, USA. October 27-November 1, 2024. [Top] [CCF A] [[PDF](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)] [[Code](https://github.com/CGCL-codes/LibHunter)] [[ACM SIGSOFT Distinguished Paper Awards](https://conf.researchr.org/info/ase-2024/awards)]
+3. **[CCS’24]** Zidong Zhang, **Qinsheng Hou**, Lingyun Ying, Wenrui Diao, Yacong Gu, Rui Li, Shanqing Guo, and Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. *The 31st ACM Conference on Computer and Communications Security*, Salt Lake City, UT, USA. October 14-18, 2024. [Top] [CCF A] [[PDF](https://chicharitomu14.github.io/files/minicat_ccs24.pdf)] [[Code](https://github.com/kee1ongz/MiniCAT)] [[Demo](https://sites.google.com/view/minicprf)] [[QAX](https://research.qianxin.com/archives/2633)]
+4. **[WWW’24]** Xiaoyin Liu, Wenzhi Li, **Qinsheng Hou**, Shishuai Yang, Lingyun Ying, Wenrui Diao, Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. *The 33rd ACM Web Conference*, Singapore. May 13-17, 2024. [Top] [CCF A] [[PDF](https://diaowenrui.github.io/paper/www24-liu.pdf)] [[QAX](https://research.qianxin.com/archives/1740)]
 
 ### 2023
 
