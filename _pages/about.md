@@ -10,14 +10,15 @@ redirect_from:
 
 About me
 ------
-I received my Ph.D. degree from Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). Currently, I also work with Dr. [Lingyun Ying](http://people.ucas.ac.cn/~yly) at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/). I ever worked/interned at JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in AI for Security, Mobile Security, Software Supply Chain Security, and IoT Security.
+I received my Ph.D. degree from Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I ever worked/interned at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/), JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in AI for Security, Mobile Security, Software Supply Chain Security, and IoT Security.
 
 Publications
 ------
 
 ### 2025
 
-1. **[ESE]** Shishuai Yang, **Qinsheng Hou**, Shuang Li, Fenghao Xu, and Wenrui Diao. From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. *Empirical Software Engineering*, 30 (11): 1-33, 2025. [CCF B] [[Link](https://rdcu.be/dYrz6)]
+1. **[USENIX Security’25]** Xiaofeng Liu, Chaoshun Zuo, **Qinsheng Hou**, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo. A Thorough Security Analysis of BLE Proximity Tracking Protocols. *The 34th USENIX Security Symposium*, Seattle, WA, USA. August 13–15, 2025. [Top] [CCF A]
+2. **[ESE]** Shishuai Yang, **Qinsheng Hou**, Shuang Li, Fenghao Xu, and Wenrui Diao. From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. *Empirical Software Engineering*, 30 (11): 1-33, 2025. [CCF B] [[Link](https://rdcu.be/dYrz6)]
 
 ### 2024
 
@@ -48,7 +49,7 @@ Publications
 ## Projects and Competitions
 
 - **天穹Android沙箱**
-  - Android 12 ARM (即将上线), Android 9 x86, Android 7.1 x86, Android 4.1 ARM
+  - Android 12 ARM, Android 9 x86, Android 7.1 x86, Android 4.1 ARM
   - [沙箱使用链接](https://sandbox.qianxin.com/sscc-tq-web/), [介绍文档](https://research.qianxin.com/archives/1748)
 - [**DataCon 2022 大数据安全分析竞赛**](https://datacon.qianxin.com/datacon2022)
   - 软件安全赛道: Android APP组成成分分析 (出题人)
@@ -78,8 +79,8 @@ Vulnerabilities and Acknowledgments
   - [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659),  [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084)
 - **CVE (5)** 
   - **2021**: CVE-2021-22486, CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
-- **CNVD (44)** 
-  - **2024**: CNVD-2024-05527
+- **CNVD (45)** 
+  - **2024**: CNVD-2024-45115, CNVD-2024-05527
   - **2023**: CNVD-2023-75837, CNVD-2023-75836, CNVD-2023-60618, CNVD-2023-59491, CNVD-2023-59021, CNVD-2023-52831, CNVD-2023-52830, CNVD-2023-37621, CNVD-2023-30405, CNVD-2023-27536, CNVD-2023-27535, CNVD-2023-27534
   - **2021**: CNVD-2021-67925, CNVD-2021-50158, CNVD-2021-42966, CNVD-2021-42949, CNVD-2021-44383, CNVD-2021-44382, CNVD-2021-48937, CNVD-2021-50157, CNVD-2021-42965, CNVD-2021-42964, CNVD-2021-42963, CNVD-2021-46708, CNVD-2021-48955, CNVD-2021-40258, CNVD-2021-37375, CNVD-2021-41512, CNVD-2021-40261, CNVD-2021-40262, CNVD-2021-37377, CNVD-2021-44691, CNVD-2021-40254, CNVD-2021-40255, CNVD-2021-40721, CNVD-2021-40259, CNVD-2021-41513, CNVD-2021-40256, CNVD-2021-40257, CNVD-2021-67925
   - **2020**: CNVD-2020-33098, CNVD-2020-38456,  CNVD-2020-28792
