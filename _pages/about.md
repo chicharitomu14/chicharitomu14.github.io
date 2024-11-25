@@ -77,7 +77,8 @@ Vulnerabilities and Acknowledgments
 ------
 - **Acknowledgments** (厂商致谢)
   - [Huawei](https://device.harmonyos.com/cn/docs/security/acknowledgments/security-acknowledgments-0000001050066659),  [Lenovo](https://iknow.lenovo.com.cn/detail/199217.html), [Vivo1](https://www.vivo.com/en/support/security-advisory-detail?id=9), [Vivo2](https://www.vivo.com/en/support/security-advisory-detail?id=10), [ZTE](https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1019084)
-- **CVE (5)** 
+- **CVE (8)** 
+  - **2023**: CVE-2023-27163, CVE-2023-27161, CVE-2023-27159 
   - **2021**: CVE-2021-22486, CVE-2021-26281, CVE-2021-26279, CVE-2021-21742, CVE-2021-3720
 - **CNVD (45)** 
   - **2024**: CNVD-2024-45115, CNVD-2024-05527
