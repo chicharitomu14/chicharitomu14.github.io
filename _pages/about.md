@@ -48,6 +48,10 @@ Publications
 
 ## Projects and Competitions
 
+- [**DataCon 2024 大数据安全分析竞赛**](https://www.datacon.org.cn/datacon2024)
+  - 漏洞分析赛道：第4名
+- **[DataCon 2022 大数据安全分析竞赛](https://www.datacon.org.cn/datacon2023)**
+  - 软件安全赛道：季军
 - **天穹Android沙箱**
   - Android 12 ARM, Android 9 x86, Android 7.1 x86, Android 4.1 ARM
   - [沙箱使用链接](https://sandbox.qianxin.com/sscc-tq-web/), [介绍文档](https://research.qianxin.com/archives/1748)
