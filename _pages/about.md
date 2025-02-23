@@ -44,7 +44,7 @@ Publications
 
 ### 2020
 
-1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [Core A, CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)] [[Conference](https://dl.acm.org/doi/10.1145/3320269.3384713)] [[QAX](https://research.qianxin.com/archives/918)] [[Gossip](https://mp.weixin.qq.com/s/HFoMdir7j5EwPs6TwfQBnw)]
+1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [Core B, CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)] [[Conference](https://dl.acm.org/doi/10.1145/3320269.3384713)] [[QAX](https://research.qianxin.com/archives/918)] [[Gossip](https://mp.weixin.qq.com/s/HFoMdir7j5EwPs6TwfQBnw)]
 
 ## Projects and Competitions
 
