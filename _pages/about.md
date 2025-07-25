@@ -19,6 +19,7 @@ Publications
 
 1. **[USENIX Security’25]** Xiaofeng Liu, Chaoshun Zuo, **Qinsheng Hou**, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo. A Thorough Security Analysis of BLE Proximity Tracking Protocols. *The 34th USENIX Security Symposium*, Seattle, WA, USA. August 13–15, 2025. [Top] [Core A\*, CCF A]
 2. **[EMSE]** Shishuai Yang, **Qinsheng Hou**, Shuang Li, Fenghao Xu, and Wenrui Diao. From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. *Empirical Software Engineering*, 30 (11): 1-33, 2025. [Q1, CCF B] [[Link](https://rdcu.be/dYrz6)]
+3. **[IEEE IOTJ]** Ran Yan, Weina Niu (✉️), **Qinsheng Hou** (✉️), YuChi Su, Jiacheng Gong, and Xiaosong Zhang. CAED: A Comprehensive Android Emulator Detection Framework with Data Augmentation. *IEEE Internet of Things Journal*, 12(13): 22847 - 22861, 2025. [Q1, CCF C] [[Link](https://ieeexplore.ieee.org/abstract/document/10935812)]
 
 ### 2024
 
