@@ -17,7 +17,7 @@ Publications
 
 ### 2025
 
-1. **[USENIX Security’25]** Xiaofeng Liu, Chaoshun Zuo, **Qinsheng Hou**, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo. A Thorough Security Analysis of BLE Proximity Tracking Protocols. *The 34th USENIX Security Symposium*, Seattle, WA, USA. August 13–15, 2025. [Top] [Core A\*, CCF A]
+1. **[USENIX Security’25]** Xiaofeng Liu, Chaoshun Zuo, **Qinsheng Hou**, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, Shanqing Guo. A Thorough Security Analysis of BLE Proximity Tracking Protocols. *The 34th USENIX Security Symposium*, Seattle, WA, USA. August 13–15, 2025. [Top] [Core A\*, CCF A] [PDF] 
 2. **[EMSE]** Shishuai Yang, **Qinsheng Hou**, Shuang Li, Fenghao Xu, and Wenrui Diao. From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. *Empirical Software Engineering*, 30 (11): 1-33, 2025. [Q1, CCF B] [[Link](https://rdcu.be/dYrz6)]
 3. **[IEEE IOTJ]** Ran Yan, Weina Niu (✉️), **Qinsheng Hou** (✉️), YuChi Su, Jiacheng Gong, and Xiaosong Zhang. CAED: A Comprehensive Android Emulator Detection Framework with Data Augmentation. *IEEE Internet of Things Journal*, 12(13): 22847 - 22861, 2025. [Q1, CCF C] [[Link](https://ieeexplore.ieee.org/abstract/document/10935812)]
 
@@ -36,7 +36,7 @@ Publications
 
 ### 2022
 
-1. **[Euro S&P'22]** Huikai Xu, Miao Yu, Yanhao Wang, Yue Liu, **Qinsheng Hou**, Zhenbang Ma, Haixin Duan, Jianwei Zhuge, and Baojun Liu. Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers. *The 7th IEEE European Symposium on Security and Privacy*, Genoa, Italy. June 6-10, 2022. [CCF C] [[PDF](https://github.com/ReAbout/Trampoline-Over-the-Air/blob/main/Trampoline%20Over%20the%20Air%20-%20Breaking%20in%20IoT%20Devices%20Through%20MQTT%20Brokers_validated.pdf)] [[QAX](https://research.qianxin.com/archives/1186)] [[Gossip](https://mp.weixin.qq.com/s/EWbDSyauXuTyF4ja9Duv2g)]
+1. **[Euro S&P'22]** Huikai Xu, Miao Yu, Yanhao Wang, Yue Liu, **Qinsheng Hou**, Zhenbang Ma, Haixin Duan, Jianwei Zhuge, and Baojun Liu. Trampoline Over the Air: Breaking in IoT Devices Through MQTT Brokers. *The 7th IEEE European Symposium on Security and Privacy*, Genoa, Italy. June 6-10, 2022. [Core A, CCF C] [[PDF](https://github.com/ReAbout/Trampoline-Over-the-Air/blob/main/Trampoline%20Over%20the%20Air%20-%20Breaking%20in%20IoT%20Devices%20Through%20MQTT%20Brokers_validated.pdf)] [[QAX](https://research.qianxin.com/archives/1186)] [[Gossip](https://mp.weixin.qq.com/s/EWbDSyauXuTyF4ja9Duv2g)]
 1. **[ICSE’22]** **Qinsheng Hou**, Wenrui Diao, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. *The 44th IEEE/ACM International Conference on Software Engineering*, Pittsburgh, PA, USA. May 21-29, 2022. [Top] [Core A*, CCF A] [[PDF]](https://chicharitomu14.github.io/files/2022-ICSE.pdf) [[Conference](https://conf.researchr.org/details/icse-2022/icse-2022-papers/36/Large-scale-Security-Measurements-on-the-Android-Firmware-Ecosystem)] [[QAX](https://research.qianxin.com/archives/1208)] [[Gossip](https://mp.weixin.qq.com/s/ykvCJ8biYHunpxjIGW8-uA)]
 
 ### 2021
@@ -45,7 +45,7 @@ Publications
 
 ### 2020
 
-1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [Core B, CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)] [[Conference](https://dl.acm.org/doi/10.1145/3320269.3384713)] [[QAX](https://research.qianxin.com/archives/918)] [[Gossip](https://mp.weixin.qq.com/s/HFoMdir7j5EwPs6TwfQBnw)]
+1. **[ASIA CCS’20]** **Qinsheng Hou**, Yao Cheng, and Lingyun Ying. NativeX: Native Executioner Freezes Android. *The 15th ACM Asia Conference on Computer and Communications Security*, Taipei, Taiwan, October 5-9, 2020. [Core A, CCF C] [[PDF](https://chicharitomu14.github.io/files/2020-NativeX.pdf)] [[Conference](https://dl.acm.org/doi/10.1145/3320269.3384713)] [[QAX](https://research.qianxin.com/archives/918)] [[Gossip](https://mp.weixin.qq.com/s/HFoMdir7j5EwPs6TwfQBnw)]
 
 ## Projects and Competitions
 
