@@ -19,8 +19,8 @@ Publications
 
 ### 2026
 
-1. **[IEEE S&P'26]** Shuli Zhao#, **Qinsheng Hou#**, Zihan Zhan, Yanhao Wang, Yuchong Xie, Yu Guo, Libo Chen, Shenghong Li, and Zhi Xue. Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem. *IEEE Symposium on*
-   *Security and Privacy*, 2026. [Top] [Core A\*, CCF A] [[PDF](https://arxiv.org/pdf/2509.06572)] [[Demo](https://secresearcher100.github.io/)]
+1. **[IEEE S&P'26]** Shuli Zhao#, **Qinsheng Hou#**, Zihan Zhan, Yanhao Wang, Yuchong Xie, Yu Guo, Libo Chen, Shenghong Li, and Zhi Xue. Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem. *The 47th IEEE Symposium on
+   Security and Privacy*, San Francisco, CA, USA. May 18-21, 2026. [Top] [Core A\*, CCF A] [[PDF](https://arxiv.org/pdf/2509.06572)] [[Demo](https://secresearcher100.github.io/)]
 2. **[EMSE]** Anran Hou, Bingjun Su, Weina Niu (✉️), **Qinsheng Hou** (✉️), Honghua Wu, and Xiaosong Zhang. CPGHunter: LLM-Guided Semantic Modeling for Scalable Vulnerability Detection via Taint Analysis.  *Empirical Software Engineering*, 2026. [Q1, CCF B] [[Link](https://link.springer.com/article/10.1007/s10664-026-10842-2)] [[Code](https://github.com/HeouDonkey/CPGHunter)]
 
 ### 2025
