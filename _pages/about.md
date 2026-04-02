@@ -10,10 +10,12 @@ redirect_from:
 
 About me
 ------
-I am an Assistant Researcher at Shanghai Jiao Tong University. I received my Ph.D. degree from Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I ever worked/interned at Alibaba Group, [QI-ANXIN Technology Research Institute](https://research.qianxin.com/), JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in AI for Security, Mobile Security, Software Supply Chain Security, and IoT Security.
+I am a Research Assistant Professor at Shanghai Jiao Tong University. I received my Ph.D. degree from Shandong University, advised by Prof. [Shanqing Guo](https://sduiseclab.github.io/profile/guoshanqing.html) and Prof. [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I ever worked/interned at Alibaba Group, [QI-ANXIN Technology Research Institute](https://research.qianxin.com/), JD.com and [ISCAS](http://www.iscas.ac.cn/). My research interests are primarily in AI for Security, Mobile Security, Software Supply Chain Security, and IoT Security.
 
 Publications
 ------
+
+(#: Equal Contribution; ✉️: Corresponding Author)
 
 ### 2026
 
