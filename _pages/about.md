@@ -21,7 +21,10 @@ Publications
 
 1. **[IEEE S&P'26]** Shuli Zhao#, **Qinsheng Hou#**, Zihan Zhan, Yanhao Wang, Yuchong Xie, Yu Guo, Libo Chen, Shenghong Li, and Zhi Xue. Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem. *The 47th IEEE Symposium on
    Security and Privacy*, San Francisco, CA, USA. May 18-21, 2026. [Top] [Core A\*, CCF A] [[PDF](https://arxiv.org/pdf/2509.06572)] [[Demo](https://secresearcher100.github.io/)]
-2. **[EMSE]** Anran Hou, Bingjun Su, Weina Niu (✉️), **Qinsheng Hou** (✉️), Honghua Wu, and Xiaosong Zhang. CPGHunter: LLM-Guided Semantic Modeling for Scalable Vulnerability Detection via Taint Analysis.  *Empirical Software Engineering*, 2026. [Q1, CCF B] [[Link](https://link.springer.com/article/10.1007/s10664-026-10842-2)] [[Code](https://github.com/HeouDonkey/CPGHunter)]
+2. **[CCS'26]** Zidong Zhang, Zhentao Xie, Lingyun Ying, **Qingsheng Hou**, Yacong Gu, Wenrui Diao, and Jianliang Wu. Mini-Programs, Mega-Problems: Unveiling OAuth Misuses in Mini-Programs via Dynamic Analysis. *ACM CCS 2026*, Hague, Netherlands. November 15-19, 2026. [Top] [Core A\*, CCF A]
+3. **[ICSME'26]** **Qinsheng Hou**, Wenrui Diao, Chaoshun Zuo, Qingchuan Zhao, Lingyun Ying, Yacong Gu, Libo Chen, Shanqing Guo, Haixin Duan, Zhi Xue. Unveiling the Ownership: An Empirical Study of Android App Associations via SDK IDs. *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Benevento, Italy. September 14 - 18, 2026. [Core A, CCF B]
+4. **[EMSE]** Anran Hou, Bingjun Su, Weina Niu (✉️), **Qinsheng Hou** (✉️), Honghua Wu, and Xiaosong Zhang. CPGHunter: LLM-Guided Semantic Modeling for Scalable Vulnerability Detection via Taint Analysis.  *Empirical Software Engineering*, 2026. [Q1, CCF B] [[Link](https://link.springer.com/article/10.1007/s10664-026-10842-2)] [[Code](https://github.com/HeouDonkey/CPGHunter)]
+5. **[ICICS'26]** Ziben Jin, Libo Chen, **Qinsheng Hou** (✉️), and Zhi Xue. DUFuzz: Define-Use Chain Guided Fuzzing for RESTful API Vulnerability Discovery. *The 28th International Conference on Information and Communications Security*, Fukui, Japan. October 27-30, 2026. [Core B, CCF C]
 
 ### 2025
 
