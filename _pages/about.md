@@ -22,7 +22,7 @@ Publications
 1. **[IEEE S&P'26]** Shuli Zhao#, **Qinsheng Hou#**, Zihan Zhan, Yanhao Wang, Yuchong Xie, Yu Guo, Libo Chen, Shenghong Li, and Zhi Xue. Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem. *The 47th IEEE Symposium on
    Security and Privacy*, San Francisco, CA, USA. May 18-21, 2026. [Top] [Core A\*, CCF A] [[PDF](https://arxiv.org/pdf/2509.06572)] [[Demo](https://secresearcher100.github.io/)]
 2. **[CCS'26]** Zidong Zhang, Zhentao Xie, Lingyun Ying, **Qingsheng Hou**, Yacong Gu, Wenrui Diao, and Jianliang Wu. Mini-Programs, Mega-Problems: Unveiling OAuth Misuses in Mini-Programs via Dynamic Analysis. *ACM CCS 2026*, Hague, Netherlands. November 15-19, 2026. [Top] [Core A\*, CCF A]
-3. **[ICSME'26]** **Qinsheng Hou**, Wenrui Diao, Chaoshun Zuo, Qingchuan Zhao, Lingyun Ying, Yacong Gu, Libo Chen, Shanqing Guo, Haixin Duan, Zhi Xue. Unveiling the Ownership: An Empirical Study of Android App Associations via SDK IDs. *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Benevento, Italy. September 14 - 18, 2026. [Core A, CCF B]
+3. **[ICSME'26]** **Qinsheng Hou**, Wenrui Diao, Chaoshun Zuo, Qingchuan Zhao, Lingyun Ying, Yacong Gu, Libo Chen, Shanqing Guo, Haixin Duan, Zhi Xue. Unveiling the Ownership: An Empirical Study of Android App Associations via SDK IDs. *The 42nd IEEE International Conference on Software Maintenance and Evolution*, Benevento, Italy. September 14-18, 2026. [Core A, CCF B]
 4. **[EMSE]** Anran Hou, Bingjun Su, Weina Niu (✉️), **Qinsheng Hou** (✉️), Honghua Wu, and Xiaosong Zhang. CPGHunter: LLM-Guided Semantic Modeling for Scalable Vulnerability Detection via Taint Analysis.  *Empirical Software Engineering*, 2026. [Q1, CCF B] [[Link](https://link.springer.com/article/10.1007/s10664-026-10842-2)] [[Code](https://github.com/HeouDonkey/CPGHunter)]
 5. **[ICICS'26]** Ziben Jin, Libo Chen, **Qinsheng Hou** (✉️), and Zhi Xue. DUFuzz: Define-Use Chain Guided Fuzzing for RESTful API Vulnerability Discovery. *The 28th International Conference on Information and Communications Security*, Fukui, Japan. October 27-30, 2026. [Core B, CCF C]
 
@@ -108,8 +108,14 @@ Vulnerabilities and Acknowledgments
 
 ## Patents
 
-- 侯勤胜, 应凌云, 聂眉宁. 一种对应用程序进行测试的方法及装置, 发明专利, 2023, 专利号: ZL201910489985.1
-- 侯勤胜, 应凌云, 聂眉宁. 一种阻止基于原生代码攻击操作系统的方法及装置, 发明专利, 2021, 专利号: ZL201910489983.2
+- **侯勤胜**, 应凌云, 聂眉宁. 一种对应用程序进行测试的方法及装置, 发明专利, 2023, 专利号: ZL201910489985.1
+- **侯勤胜**, 应凌云, 聂眉宁. 一种阻止基于原生代码攻击操作系统的方法及装置, 发明专利, 2021, 专利号: ZL201910489983.2
+- 陈力波, **侯勤胜**, 夏懿航. 基于大语言模型思维链的固件逻辑漏洞检测方法、系统、电子设备和计算机可读存储介质, 发明专利, 2025, 专利号: ZL202510206888.2.
+- 陈力波, **侯勤胜**, 夏懿航. 针对嵌入式系统中多类型脚本的自动化安全漏洞检测方法、系统、电子设备和可读存储介质, 发明专利, 2025, 专利号: ZL202510206889.7.
+- 陈力波, **侯勤胜**, 夏懿航. 大模型辅助的静态代码扫描结果分析方法、装置、电子设备和计算机可读存储介质, 发明专利, 2025, 专利号: ZL202510206887.8.
+- 陈力波, **侯勤胜**, 夏懿航. 基于大模型的异构工控网络智能防护方法及系统, 发明专利, 2025, 专利号: ZL202510199287.3.
+- 陈力波, 夏懿航, **侯勤胜**. 大模型辅助的程序功能自动感知模糊测试方法与系统, 发明专利, 2025, 专利号: ZL202510199284.X.
+- 陈力波, 王浩宇, 张倬胜, **侯勤胜**, 李生红. 基于大语言模型的逻辑漏洞知识库构建方法、装置、电子设备和存储介质, 发明专利, 2025, 专利号: ZL202510865600.2.
 
 ## Services
 
