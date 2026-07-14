@@ -79,11 +79,14 @@ Publications
 Talks
 ------
 
+- **MCP协议安全分析**
+  - Jun 2026: CCF软件工程专委会青年论坛学术报告会“开源软件安全”
+  - Jun 2026: 2026 Beijing Cyber Security Conference（2026 北京网络安全大会）
 - **软件供应链生态安全实践**
   - Apr 2023: [DataCon特训夏令营 – 系统与软件安全专题](https://datacon.qianxin.com/video/video-list)
 - **Android固件生态的大规模安全测量**
   - Aug 2021: [3rd International Workshop on Cyber Security and Data Privacy](https://mp.weixin.qq.com/s/DzGv_eOpLHVaVy1u4jZ1vw)
-  - Aug 2021: [2021 北京网络安全大会](https://bcs.qianxin.com/speakers/show.php?itemid=225)
+  - Aug 2021: [2021 Beijing Cyber Security Conference（2021 北京网络安全大会）](https://bcs2021.qianxin.com/speakers/show.php?itemid=225)
 - **基于Native Code的Android系统Dos攻击分析**
   - May 2021: [Nankai University, Tianjin, China](https://cc.nankai.edu.cn/2021/0507/c13294a356791/page.htm)
   - Apr 2021: Southeast University, Nanjing, China
