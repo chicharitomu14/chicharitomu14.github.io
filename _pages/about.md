@@ -80,8 +80,8 @@ Talks
 ------
 
 - **MCP协议安全分析**
-  - Jun 2026: CCF软件工程专委会青年论坛学术报告会“开源软件安全”
-  - Jun 2026: 2026 Beijing Cyber Security Conference（2026 北京网络安全大会）
+  - Jun 2026: [CCF软件工程专委会青年论坛学术报告会“开源软件安全”](https://mp.weixin.qq.com/s/5lafyjCyds5BQ96tCv5s6A)
+  - Jun 2026: [2026 Beijing Cyber Security Conference（2026 北京网络安全大会）](https://mp.weixin.qq.com/s/JebQPxcSllp0Zm_Dfx1xPw)
 - **软件供应链生态安全实践**
   - Apr 2023: [DataCon特训夏令营 – 系统与软件安全专题](https://datacon.qianxin.com/video/video-list)
 - **Android固件生态的大规模安全测量**
@@ -119,6 +119,7 @@ Vulnerabilities and Acknowledgments
 - 陈力波, **侯勤胜**, 夏懿航. 基于大模型的异构工控网络智能防护方法及系统, 发明专利, 2025, 专利号: ZL202510199287.3.
 - 陈力波, 夏懿航, **侯勤胜**. 大模型辅助的程序功能自动感知模糊测试方法与系统, 发明专利, 2025, 专利号: ZL202510199284.X.
 - 陈力波, 王浩宇, 张倬胜, **侯勤胜**, 李生红. 基于大语言模型的逻辑漏洞知识库构建方法、装置、电子设备和存储介质, 发明专利, 2025, 专利号: ZL202510865600.2.
+- 王衍豪, 令狐甲琦, 陈力波, 蔡洤朴, **侯勤胜**, 刘跃. 设备安全检测方法、装置、计算机设备和可读存储介质, 发明专利, 2025, 专利号: ZL202110697421.4.
 
 ## Services
 
